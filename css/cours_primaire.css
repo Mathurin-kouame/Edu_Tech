@@ -72,23 +72,23 @@ button{
 }
 .cp1{
 	background-size: cover;
-	background: url(../cp1.jpeg) center;
+	background: url(../Images/cp1.jpeg) center;
 }
 .cp2{
-	background: url(../cp2.jpeg) center;
+	background: url(../Images/cp2.jpeg) center;
 	
 }
 .ce1{
-	background: url(../ce1.jpeg) center;
+	background: url(../Images/ce1.jpeg) center;
 }
 .ce2{
-	background: url(../ce2.jpeg) center;
+	background: url(../Images/ce2.jpeg) center;
 }
 .cm1{
-	background: url(../cm1.jpeg) center;
+	background: url(../Images/cm1.jpeg) center;
 }
 .cm2{
-	background: url(../cm2.jpeg) center;
+	background: url(../Images/cm2.jpeg) center;
 	
 }
 a{
