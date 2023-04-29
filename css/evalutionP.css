@@ -1,5 +1,6 @@
 .assessment{
-    width: 1440%;
-    height:30px;
+    width: 1440px;
+    height:100%;
+    margin: 0 auto;
     background-color: antiquewhite;
 }
