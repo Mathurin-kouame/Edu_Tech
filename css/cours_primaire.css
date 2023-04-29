@@ -7,3 +7,70 @@
 	padding: 0 30px;
 	box-shadow: 0 8px 12px -4px rgba(0, 0, 0, 0.4);
 }
+.classe{
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	border: 1px solid;
+}
+.primaire{
+	display:flex;
+	justify-content: space-evenly;
+	width: 100%;
+	height: auto;
+	border: 1px solid;
+}
+button{
+	height: 185px;
+	width: 200px;
+}
+.cp1{
+	background: url(../cp1.jpeg);
+}
+.cp2{
+	background: url(../cp2.jpeg);
+	
+}
+.ce1{
+	background: url(../ce1.jpeg);
+}
+.ce2{
+	background: url(../ce2.jpeg);
+}
+.cm1{
+	background: url(../cm1.jpeg);
+}
+.cm2{
+	background: url(../cm2.jpeg);
+	
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.cours1{
+	position: relative;
+	border: 1px solid red;
+	width: 100%;
+}
+.primaire1{
+	display:block;
+	justify-content: space-evenly;
+	width: 100%;
+	height: auto;
+	border: 1px solid;
+}
+h1{
+	text-align: center;
+}
+.classe1{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	
+	margin: 20px;
+}
+p{
+	font-size: 20px;
+}
