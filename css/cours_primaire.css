@@ -18,30 +18,31 @@
 	justify-content: space-evenly;
 	width: 100%;
 	height: auto;
-	border: 1px solid;
+
 }
 button{
 	height: 185px;
 	width: 200px;
 }
 .cp1{
-	background: url(../cp1.jpeg);
+	background-size: cover;
+	background: url(../cp1.jpeg) center;
 }
 .cp2{
-	background: url(../cp2.jpeg);
+	background: url(../cp2.jpeg) center;
 	
 }
 .ce1{
-	background: url(../ce1.jpeg);
+	background: url(../ce1.jpeg) center;
 }
 .ce2{
-	background: url(../ce2.jpeg);
+	background: url(../ce2.jpeg) center;
 }
 .cm1{
-	background: url(../cm1.jpeg);
+	background: url(../cm1.jpeg) center;
 }
 .cm2{
-	background: url(../cm2.jpeg);
+	background: url(../cm2.jpeg) center;
 	
 }
 a{
@@ -51,7 +52,6 @@ a{
 
 .cours1{
 	position: relative;
-	border: 1px solid red;
 	width: 100%;
 }
 .primaire1{
@@ -62,15 +62,27 @@ a{
 	border: 1px solid;
 }
 h1{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	text-align: center;
 }
 .classe1{
 	width: 100%;
 	height: 200px;
 	text-align: center;
-	
-	margin: 20px;
+	margin: 30px;
 }
 p{
 	font-size: 20px;
+}
+.a1{
+
+	box-shadow: 1px 1px 1px ;
+}
+.evalu{
+	width: 100px;
+	height: 20px;
+	background: #117D95;
+	border: 1px solid;
+	border-radius: 10px;
+	color: white;
 }
