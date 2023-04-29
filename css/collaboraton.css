@@ -1,0 +1,89 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contener
+{
+
+}
+
+.tete
+{
+    margin-top: 3%;
+    color: rgb(17, 50, 105);
+}
+
+.primaire
+{
+    display: block;
+
+}
+
+.titre-P
+{
+   text-align: center; 
+   color: rgb(17, 50, 105);
+   border: 1px solid  rgb(17, 50, 105);
+   width: 30%;
+   margin-top: 5%;
+   position: relative;
+   left: 35%;
+}
+
+.enseignant-P
+{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    height: 40vh;
+    position: relative;
+    left: 10%;
+    margin-top: 07%;
+}
+
+.primaire-E
+{
+    width: 20%;
+    border: 1px solid rgb(17, 50, 105);
+    border-radius: 20px;
+    display: block;
+    font-size: 1.5em;
+    text-align: center;
+    color: rgb(17, 50, 105);
+}
+
+.enseignant-image
+{
+
+}
+
+.enseignant-image img
+{
+    width: 100%;
+    height: 30vh;
+}
+
+.btn
+{
+    width: 100%;
+    background-color:rgb(17, 50, 105) ;
+    height: 06.6vh;
+    border-radius: 0 0 20px 20px;
+    position: relative;
+    bottom: 01.8%;
+    text-align: center;
+    color: white;
+}
+
+.btn a
+{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 20%;
+}
+
