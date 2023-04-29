@@ -36,6 +36,12 @@ width: 20rem;
     margin-left: 15%; 
    
 }
+.titre{
+	text-align: center;
+	margin-top: 50px ;
+	font-size: 30px;
+	color: #D46F4D;
+}
 a{
     text-decoration: none;
     color: white;
@@ -54,10 +60,12 @@ li{
 
 
 .classe{
+	position: relative;
 	width: 200px;
 	height: 200px;
 	text-align: center;
 	border: 1px solid;
+
 }
 .primaire{
 	display:flex;
@@ -107,9 +115,10 @@ a{
 	height: auto;
 	border: 1px solid;
 }
-h1{
+h2{
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	text-align: center;
+	color: #117D95;
 }
 .classe1{
 	width: 100%;
